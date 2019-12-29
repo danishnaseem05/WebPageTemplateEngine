@@ -1,0 +1,9 @@
+{
+  "name": "john",
+  "friends": [
+    "ann",
+    "bob",
+    "tom",
+    "alice"
+  ]
+}
